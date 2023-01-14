@@ -186,8 +186,22 @@ print(grades[1]) #You can't use append or pop
 
 #Looping
 print("For loop --- start to finish of iterate: ")
+vegetables = ["Cucumber", "Spinach", "Cabbage"]
+for x in vegetables:
+	print(x)
+	
+print("While loop --- Execute while its true")
+i = 1
+while i < 10:
+	print(i)
+	i += 1;
 
-print("TimeStamp: 2:58")
+
+
+
+
+
+
 
 
 
