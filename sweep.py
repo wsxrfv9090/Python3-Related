@@ -2,7 +2,6 @@
 import subprocess
 import datetime
 import re
-
 import argparse
 
 def write_result(filename, ping):
