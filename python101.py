@@ -110,8 +110,8 @@ print(greater_than, less_than, greater_than_equal_to, less_than_equal_to)
 
 test_and1 = (7 > 5) and (5 < 7)
 test_and2 = (7 > 5) and (8 < 5)
-test_or1 = (7 > 5) and (5 < 7)
-test_or2 = (7 > 5) and (8 < 5)
+test_or1 = (7 > 5) or (5 < 7)
+test_or2 = (7 > 5) or (8 < 5)
 test_not = not True
 
 print(test_and1, test_and2, test_or1, test_or2, test_not)

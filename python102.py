@@ -13,7 +13,7 @@ print(dt.now())
 def new_line():
 	print("\n")
 	
-new_line
+new_line()
 
 #Advanced String
 print("Advanced strings: ")
@@ -68,7 +68,7 @@ def favorite_book(title, author):
 
 print(favorite_book("The Great Gatsby", "F. Scott Fitzgerald"))
 
-new_line
+new_line()
 
 #Dictionaries
 print("Dictionaries are keys and values")
